@@ -1,5 +1,5 @@
 const apiUrl = "https://api.github.com/repos/USERNAME/REPO_NAME/contents/about.html";
-const token = "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"; // Your GitHub personal access token
+const token = ""; // Your GitHub personal access token
 
 // The content for the new HTML page (e.g., about.html)
 const aboutPageContent = `
